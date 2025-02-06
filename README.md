@@ -1,2 +1,3 @@
 # Flutter
-SE Project
+## SE Project
+Basic Syntax Practice and Main Project
