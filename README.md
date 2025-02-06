@@ -1,3 +1,3 @@
 # Flutter
 ## SE Project
-Basic Syntax Practice and Main Project
+Expenditure Tracker & Predictor
